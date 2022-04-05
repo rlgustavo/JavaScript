@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+body {
+    background-image: linear-gradient(to right, #ffffff, #00ffff, #ff00ff);
+}
+
+main {
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    width: 400px;
+    margin: auto;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@600&family=Rubik+Wet+Paint&display=swap');
+h1 {
+    text-align: center;
+    font-family: 'Rubik Wet Paint', cursive;
+}
+
+p {
+    text-align: justify;
+}
+
+ul {
+    text-decoration: black;
+}
